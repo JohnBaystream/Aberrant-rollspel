@@ -22,8 +22,6 @@
   "background": "",
   "gridDistance": 1,
   "gridUnits": "m",
-  "primaryTokenAttribute": "health",
-  "secondaryTokenAttribute": "sanity",
   "initiative": "1d10",
   "url": "",
   "manifest": "https://github.com/JohnBaystream/Aberrant-rollspel/edit/main/system.json",
