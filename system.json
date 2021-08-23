@@ -1,29 +1,21 @@
 {
   "name": "aberrant",
   "title": "Aberrant rollspelet",
-  "description": "Ett rollspel i Aberrant världen",
+  "description": "Rollspel i Aberrant världen",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.8.8",
-  "compatibleCoreVersion": "0.8.8",
+  "templateVersion": 2,
   "author": "JohnBaystream",
-  "authors": [
-    "JohnBaystream"
-  ],
+     "minimumCoreVersion": "0.8.7",
   "scripts": [],
   "esmodules": [],
   "styles": [],
-  "languages": [],
   "packs": [],
-  "system": [],
-  "dependencies": [],
-  "flags": {},
+  "languages": [],
   "socket": false,
-  "protected": false,
-  "background": "",
+  "initiative": "1d10",
   "gridDistance": 1,
   "gridUnits": "m",
-  "initiative": "1d10",
   "url": "",
-  "manifest": "https://github.com/JohnBaystream/Aberrant-rollspel/edit/main/system.json",
-  "download": "",
- }
+  "manifest": "https://github.com/JohnBaystream/Aberrant-rollspel/system.json",
+  "download": "https://github.com/JohnBaystream/Aberrant-rollspel/system.json"
+}
